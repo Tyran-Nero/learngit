@@ -1,5 +1,1 @@
-First Git File；
-I will never forgive until 
-Love
-dislike
-songchengfang
+learn git
